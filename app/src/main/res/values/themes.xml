@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Denik" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Aplikace může využívat nastavení MaterialComponents -->
+        <item name="android:colorBackground">@android:color/white</item>
+    </style>
+</resources>
